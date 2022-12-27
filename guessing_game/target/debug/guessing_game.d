@@ -1,1 +1,0 @@
-/Users/admin/Library/Mobile\ Documents/com~apple~CloudDocs/Developer/Learning/Rust/guessing_game/target/debug/guessing_game: /Users/admin/Library/Mobile\ Documents/com~apple~CloudDocs/Developer/Learning/Rust/guessing_game/src/main.rs
