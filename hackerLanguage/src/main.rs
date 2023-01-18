@@ -85,5 +85,5 @@ fn to_hacker(input: String) -> String {
         .reduce(|cur: String, nxt: String| cur + &nxt)
         .unwrap();
 
-    return result;
+    result
 }
